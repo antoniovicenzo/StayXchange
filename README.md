@@ -1,4 +1,4 @@
-# StayXchange# StayXchange
+# StayXchange
 ## 1. Project Description:
 StayXchange is a platform that provides housing solutions for incoming and parting exchange students struggling with finding accommodation.
 Our platform has 2 main functions:
